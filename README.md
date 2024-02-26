@@ -1,4 +1,4 @@
-# Project Name
+# topShop
 
 ## Description
 
@@ -6,9 +6,15 @@ The TopShop project is a web application built with NestJS, a powerful and scala
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+The CRUD (Create, Read, Update, Delete) feature in the TopShop project allows users to perform the following actions on products:
+
+- Create: Users can add new products to the system by providing relevant information such as name, description, price, and image.
+- Read: Users can view the details of existing products, including their name, description, price, and image.
+- Update: Users can modify the information of existing products, such as updating the name, description, price, or image.
+- Delete: Users can remove products from the system, effectively deleting them from the database.
+
+This CRUD feature provides a comprehensive set of operations for managing products in the TopShop project, enabling users to easily add, view, update, and delete products as needed.
+
 
 ## Installation
 
